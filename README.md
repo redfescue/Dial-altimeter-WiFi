@@ -5,4 +5,4 @@ local sea-level barometric pressure, allowing altitude to be calculated.
 The connect to WiFi, fetch barometric pressure and parse weather data portions of this
 program were written by Github Copilot
 
-This project is documented in the Arduino Project Hub
+This project is documented in the Arduino Project Hub in the Lab Tools category
